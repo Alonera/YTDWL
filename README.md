@@ -16,7 +16,7 @@ sudo pip install yt-dlp
 ```
 **İndirme**
 ```bash
-git clone https://github.com/Alonera/YTDWL
+git clone https://github.com/Alonera/YTDWL.git
 ```
 **KULLANIM**
   1. Programı çalıştırın:
