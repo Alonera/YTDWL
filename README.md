@@ -17,9 +17,11 @@ Bu programı çalıştırabilmek için `yt-dlp` kütüphanesinin yüklü olması
 
 **KULLANIM**
   1. Programı çalıştırın:
+  ```bash
      python3 YTDWL.py
-  2. İndirmek istediğiniz YouTube video URL'sini girin.
-  3. Çözünürlük seçeneğini (1080p, 720p, 480p, 360p) belirleyin.
-  4. Sadece ses mi indirmek istediğinizi belirtin.
-  5. Kaydedilecek dizini seçin (Varsayılan: /home/{kullanıcı_adı}/YTDWL).
-  6. Program video veya ses dosyasını indirip belirtilen dizine kaydedecektir.
+  ```
+  3. İndirmek istediğiniz YouTube video URL'sini girin.
+  4. Çözünürlük seçeneğini (1080p, 720p, 480p, 360p) belirleyin.
+  5. Sadece ses mi indirmek istediğinizi belirtin.
+  6. Kaydedilecek dizini seçin (Varsayılan: /home/{kullanıcı_adı}/YTDWL).
+  7. Program video veya ses dosyasını indirip belirtilen dizine kaydedecektir.
