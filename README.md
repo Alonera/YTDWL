@@ -13,7 +13,11 @@ Bu programı çalıştırabilmek için `yt-dlp` kütüphanesinin yüklü olması
 
    ```bash
    sudo pip install yt-dlp
-   
+
+**İndirme**
+```bash
+git clone https://github.com/Alonera/YTDWL
+```
 **KULLANIM**
   1. Programı çalıştırın:
   ```bash
