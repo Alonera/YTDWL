@@ -13,12 +13,11 @@ Bu programı çalıştırabilmek için `yt-dlp` kütüphanesinin yüklü olması
 
    ```bash
    sudo pip install yt-dlp
-
-
+   
 **KULLANIM**
   1. Programı çalıştırın:
   ```bash
-     python3 YTDWL.py
+python3 YTDWL.py
   ```
   3. İndirmek istediğiniz YouTube video URL'sini girin.
   4. Çözünürlük seçeneğini (1080p, 720p, 480p, 360p) belirleyin.
