@@ -11,9 +11,9 @@ Bu programı çalıştırabilmek için `yt-dlp` kütüphanesinin yüklü olması
 1. Python 3 ve `pip` kurulu olduğundan emin olun.
 2. `yt-dlp` kütüphanesini yüklemek için terminale şu komutu yazın:
 
-   ```bash
-   sudo pip install yt-dlp
-
+```bash
+sudo pip install yt-dlp
+```
 **İndirme**
 ```bash
 git clone https://github.com/Alonera/YTDWL
